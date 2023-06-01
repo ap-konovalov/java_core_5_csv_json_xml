@@ -1,0 +1,5 @@
+rootProject.name = 'csv_json_xml'
+include 'csv_json_parser'
+include 'xml_json_parser'
+include 'json_parser'
+
